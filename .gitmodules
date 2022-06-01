@@ -1,0 +1,3 @@
+[submodule "opengames/src/main/jni/MobileTouchControls"]
+	path = opengames/src/main/jni/MobileTouchControls
+	url = https://github.com/7dog123/MobileTouchControls
